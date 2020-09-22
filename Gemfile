@@ -20,6 +20,7 @@ gem 'turbolinks', '~> 5'
 
 gem 'pg'  # No more `gem 'sqlite'` thanks to `--database=postgresql`
 gem 'simple_form'
+gem 'cloudinary', '~> 1.16.0'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
